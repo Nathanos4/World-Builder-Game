@@ -1,0 +1,4 @@
+C:/Users/natha/CLionProjects/nil190000.program4/cmake-build-debug/CMakeFiles/nil190000_program4.dir
+C:/Users/natha/CLionProjects/nil190000.program4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/natha/CLionProjects/nil190000.program4/cmake-build-debug/CMakeFiles/program4.dir
+C:/Users/natha/CLionProjects/nil190000.program4/cmake-build-debug/CMakeFiles/edit_cache.dir
